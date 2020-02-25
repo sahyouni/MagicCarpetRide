@@ -1,0 +1,8 @@
+{
+    "java.dependency.syncWithFolderExplorer": true,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.codeGeneration.generateComments": true,
+    "java.codeGeneration.useBlocks": true,
+    "java.maven.downloadSources": true,
+    "java.referencesCodeLens.enabled": true
+}

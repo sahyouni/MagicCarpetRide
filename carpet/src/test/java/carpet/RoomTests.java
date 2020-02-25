@@ -1,6 +1,6 @@
 
  
-//import org.testng.annotations.*;
+import org.testng.annotations.*;
  
 public class SimpleTest {
  
@@ -14,7 +14,7 @@ public class SimpleTest {
    System.out.println("Fast test");
  }
  
- @Test
+ @Testx
  public void aSlowTest() {
     System.out.println("Slow test");
  }
